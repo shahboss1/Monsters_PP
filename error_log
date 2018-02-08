@@ -1,0 +1,51 @@
+[08-Feb-2018 22:06:44 UTC] PHP Warning:  include(/franknstine.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:06:44 UTC] PHP Warning:  include(/franknstine.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:06:44 UTC] PHP Warning:  include(): Failed opening '/franknstine.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:06:44 UTC] PHP Warning:  include(/Vampire.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:06:44 UTC] PHP Warning:  include(/Vampire.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:06:44 UTC] PHP Warning:  include(): Failed opening '/Vampire.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:06:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Monster' not found in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 12
+[08-Feb-2018 22:06:55 UTC] PHP Warning:  include(/franknstine.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:06:55 UTC] PHP Warning:  include(/franknstine.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:06:55 UTC] PHP Warning:  include(): Failed opening '/franknstine.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:06:55 UTC] PHP Warning:  include(/Vampire.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:06:55 UTC] PHP Warning:  include(/Vampire.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:06:55 UTC] PHP Warning:  include(): Failed opening '/Vampire.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:06:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Monster' not found in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 12
+[08-Feb-2018 22:06:59 UTC] PHP Warning:  include(/franknstine.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:06:59 UTC] PHP Warning:  include(/franknstine.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:06:59 UTC] PHP Warning:  include(): Failed opening '/franknstine.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:06:59 UTC] PHP Warning:  include(/Vampire.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:06:59 UTC] PHP Warning:  include(/Vampire.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:06:59 UTC] PHP Warning:  include(): Failed opening '/Vampire.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:06:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Monster' not found in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 12
+[08-Feb-2018 22:07:07 UTC] PHP Warning:  include(/franknstine.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:07:07 UTC] PHP Warning:  include(/franknstine.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:07:07 UTC] PHP Warning:  include(): Failed opening '/franknstine.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:07:07 UTC] PHP Warning:  include(/Vampire.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:07:07 UTC] PHP Warning:  include(/Vampire.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:07:07 UTC] PHP Warning:  include(): Failed opening '/Vampire.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:07:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Monster' not found in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 12
+[08-Feb-2018 22:07:51 UTC] PHP Warning:  include(/franknstine.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:07:51 UTC] PHP Warning:  include(/franknstine.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:07:51 UTC] PHP Warning:  include(): Failed opening '/franknstine.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 9
+[08-Feb-2018 22:07:51 UTC] PHP Warning:  include(/Vampire.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:07:51 UTC] PHP Warning:  include(/Vampire.php): failed to open stream: No such file or directory in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:07:51 UTC] PHP Warning:  include(): Failed opening '/Vampire.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 10
+[08-Feb-2018 22:07:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Monster' not found in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/MonsterBash.php on line 12
+[08-Feb-2018 22:08:13 UTC] PHP Fatal error:  Class 'Monster' not found in /home/siqbalgr/public_html/328/Monsters/Monsters_PP/franknstine.php on line 9

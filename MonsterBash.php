@@ -6,9 +6,24 @@
  * Time: 1:26 PM
  */
 
+include ('franknstine.php');
+include ('Vampire.php');
 
-$Monster = new Monster('frank');
+$monster = new Monster();
+$monster->setName("Slender Man");
+$monster->attack();
 
-$Monster->attack();
+$vampire = new Vampire("Drac");
+$vampire->attack();
+$vampire->getVictims();
+
+$franknstine = new franknstine(false);
+$franknstine->lightFire();
+$franknstine->getFire();
+
+
+
+
+
 
 

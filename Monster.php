@@ -10,15 +10,9 @@ class Monster
 {
     protected $name;
 
-    function __construct()
+    function __construct($name = "No name")
     {
-        $this->name = "default";
-
-    }
-
-    function Monster($name)
-    {
-        $this->$name = $name;
+        $this->name = $name;
 
     }
 
