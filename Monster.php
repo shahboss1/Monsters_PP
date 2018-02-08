@@ -10,24 +10,27 @@ class Monster
 {
     protected $name;
 
-    function _construct($name)
+    function __construct()
+    {
+        $this->name = "default";
+
+    }
+
+    function Monster($name)
     {
         $this->$name = $name;
 
     }
 
-    function Monster()
+    function setName($name)
     {
-
-    }
-
-    function setName()
-    {
+        $this->Monster($name);
 
     }
 
     function getName()
     {
+        return "$this->name";
 
     }
 
