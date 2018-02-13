@@ -5,7 +5,7 @@
  * Date: 2/8/18
  * Time: 1:09 PM
  */
-
+ini_set('error_reporting', E_ALL);
 class Monster
 {
     protected $name;
@@ -18,19 +18,20 @@ class Monster
 
     function setName($name)
     {
-        $this->Monster($name);
+        $this->name = $name;
 
     }
 
     function getName()
     {
-        return "$this->name";
+        return $this->name;
 
     }
 
     function attack()
     {
-        echo "$this->name is attacking";
+        //echo "$this->name is attacking";
+        echo "<p>" . $this->name . " attacks!</p>";
 
     }
 }

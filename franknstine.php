@@ -5,7 +5,7 @@
  * Date: 2/8/18
  * Time: 1:49 PM
  */
-
+ini_set('error_reporting', E_ALL);
 class franknstine extends Monster
 {
     protected $fire;
@@ -25,6 +25,10 @@ class franknstine extends Monster
     }
     function getFire(){
         return $this->fire;
+    }
+    function attack()
+    {
+        echo "shoots fire";
     }
 
 }
